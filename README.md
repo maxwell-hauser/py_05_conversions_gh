@@ -400,9 +400,4 @@ Reading remainders bottom-to-top: (100011)₂
 ← Previous: [Chapter 4 - Number Systems](../ch4_number_systems/) | Next: [Chapter 6 - Complements](../ch6_complements/) →
 
 ---
-
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
